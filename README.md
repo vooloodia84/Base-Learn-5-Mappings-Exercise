@@ -1,4 +1,4 @@
-# Base-Learn-5-Mappings-Exercise
+# Base-Learn-5-Mappings-Exercise.
 
 # 📋 Instructions:
 # Favorite notes management system with nested mapping to track user preferences.
